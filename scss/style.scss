@@ -1,0 +1,13 @@
+// Importa funções e variáveis
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$theme-colors: (
+    primary: #E03210,
+    secundary: #EB6D10,
+    info: #D49219,    
+);
+
+$prefix: 'mo-';
+
+@import "../node_modules/bootstrap/scss/bootstrap";
