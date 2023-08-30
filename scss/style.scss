@@ -3,9 +3,11 @@
 @import "../node_modules/bootstrap/scss/variables";
 
 $theme-colors: (
-    primary: #E03210,
+    primary: #a497e0,
     secundary: #EB6D10,
-    info: #D49219,    
+    info: #cde662, 
+    warning: rgb(47, 178, 230),   
+    success: green,
 );
 
 $prefix: 'mo-';
